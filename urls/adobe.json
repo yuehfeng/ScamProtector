@@ -1,0 +1,1600 @@
+{
+    "data": [
+        {
+            "ip": "0.0.0.0",
+            "url": "#cdn-ffc.oobesaas.adobe.com/*"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "3dns-3.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "3dns-2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "3dns-1.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "3dns-4.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "3dns.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "9212252.fls.doubleclick.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "a3.behance.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "a5.behance.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "acc-learn.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "acc-learn.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "acc.adobeoobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "account.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "accounts.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "accounts.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "acp-ss-an1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "acp-ss-ew1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "acp-ss-ue1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "acp-ss-va6c2.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "acp-ss.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate-sea.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate-sjc0.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate.wip.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate.wip1.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate.wip2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate.wip3.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "activate.wip4.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ad.adobe-identity.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adbecrsl.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adbemdigitalmediarebootprod2.112.2o7.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adminconsole.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe-dns-1.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe-dns-2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe-dns-3.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe-dns-4.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe-dns.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe-voice-nld2.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe-voice-va7.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe-voice.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe.activate.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe.demdex.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe.ly"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobe.tt.omtrdc.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobecc.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobecce.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobedtm.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobeereg.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobeexchange.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobeexchange.com/api"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobeid-na1.services.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobeid.services.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobejanus.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobeku.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobelogin.prod.ims.adobejanus.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobeoobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobesc.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobesearch.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobesunbreak.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "adobetag.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "aedash.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "agsupdate.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ams.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ans.oobesaas.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ans.oobesas.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api-cna01.adobe-services.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api.account.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api.appcues.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api.behance.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api.demandbase.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api.segment.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "api.typekit.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "app.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "applications.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "appregistry.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "aps-web.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ardownload.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ardownload2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "armmf.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ars.oobesaas.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "as.ftcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "as1.ftcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "as2.ftcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "assets-cdn.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "assets-helper.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "assets.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "assets.adobedtm.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "assets.fonts.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "assets.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "assets2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "audios.ftcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "auth.services.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "awenroll.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "bam.nr-data.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "bat.bing.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "behance.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "blob.core.windows.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "build.phonegap.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "businesscatalyst.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "byof.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "c.betrad.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "c.evidon.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cai-identity.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cai-manifests.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cai-msb.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cai-splunk-proxy.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cai.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-assets.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-behance.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-cp.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-data.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-image-x.adobe.io/agctosvg"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-image.adobe.io/createagc"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-sharedproductions-prerelease.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-storage.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-teamprojects-an1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-teamprojects-ew1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-teamprojects-ue1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-api-teamprojects.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-cdn.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-collab.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cc-ext-prod-pkgs.s3.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccext-cdn.adobecces.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccext-public.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccext-static.adobecces.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccext.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccext.adobecces.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cchome.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cclibraries-defaults-cdn.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccmdl.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccmdls.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccprojects-va6.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ccprojects.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cctypekit.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cdn-ffc.oobesaas.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cdn-sharing.adobecc.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cdn.cp.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cdn.experienceleague.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cdn.inpwrd.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cdn.segment.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cdn.tt.omtrdc.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "checkout.stripe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "client.messaging.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "color.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "comments.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "community.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "connect.ffc.adobeoobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "creative.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "creativecloud.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "creativecloud.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "crl.verisign.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "crl.verisign.net."
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "crs.cr.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cs.licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ct.pinterest.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "cvs.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "d24n15hnbwhuhn.cloudfront.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "d32a1iuc7x840y.cloudfront.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "d3gnp5fs6fu2h7.cloudfront.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "d9.flashtalking.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "data.typekit.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "dc-api.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "delegated.adobelogin.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "demandbase.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "demdex.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "design-assets.adobeprojectm.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "developer.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "digicert.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "digitalpublishing.acrobat.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "dnzuu5synxxfk.cloudfront.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "docs.aws.amazon.com/general/latest/gr/"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "dpm.demdex.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "drm.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ds-an1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ds-ew1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ds-ue1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ds.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "echocdn.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "echosign.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "echosign.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "edgefonts.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ereg.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ereg.wip.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ereg.wip1.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ereg.wip2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ereg.wip3.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ereg.wip4.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "exception.licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "exchange.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "express.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "external-assets.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "fast.appcues.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "faster.typekit.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "federatedid-na1.services.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ffc-icons.oobesaas.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ffc-static-cdn.oobesaas.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "firebase-settings.crashlytics.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "firebaseinstallations.googleapis.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "firebaselogging-pa.googleapis.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "fonts.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "frameio-application-production.s3-accelerate.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "frameio-assets-production.s3-accelerate.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "frameio-assets.s3.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "genuine.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "geo.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "geo2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "google-analytics.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "googleads.g.doubleclick.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "hbrt.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "helpx.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "hl2rcv.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "hlrcv.stage.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "http://armdl.adobe.com/"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ic.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ids-proxy.account.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "illustrator.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "image.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ims-na1.adobelogin.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ims-prod06.adobelogin.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ims-prod07.adobelogin.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "indd.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "invitations.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "js-agent.newrelic.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "js.intercomcdn.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "js.stripe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "k.sni.global.fastly.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "landing.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lcs-cops.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lcs-entitlement.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lcs-entitlement.adobe.io/v1/trial"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lcs-entitlement.adobe.io/v1/trialadobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lcs-entitlement.adobe.io/v1/user"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lcs-robs.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lcs-ulecs.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "libraries.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "licenses.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "licensing.adobe.co"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "licensing.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lightroom.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "links.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "livecreate-an1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "livecreate-ew1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lm.licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "lmlicenses.wip4.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "m.stripe.network"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "m59b4msyph.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "macromedia.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "mail.adobegov.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "match.prod.bidr.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "mir-s3-cdn-cf.behance.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "my.appcues.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "myportfolio.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "na1e-acc.services.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "na1e.services.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "na1r.services.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "na2m-pr.licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "newrelic.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "notify.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "odin.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "okta.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "oktacdn.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "oktapreview.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "omniture.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "omtrdc.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "oobe.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ood.opsource.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "p.typekit.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "p13n-mr.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "p13n.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "pgc.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "photos.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "photoshop.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "photoshop.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "picture.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "pixel.quantserve.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "platform-assets.typekit.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "platform-cs-va6.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "platform-cs.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "polka.typekit.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "polka.typekit.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "practivate.adobe"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "practivate.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "practivate.adobe.ipp"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "practivate.adobe.newoa"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "practivate.adobe.ntp"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "presence-an1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "presence-ew1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "preview.illustrator.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "prod-rel-ffc-ccm.oobesaas.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "prod.acp.adobeoobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "prod.adobeccstatic.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "prod.adobegenuine.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "prod.wam.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "prosite.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "psweb-cd.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "pubcerts.licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "public.adobecc.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "rande.html#s3_region"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "resources.licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "s.ftcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "s3-us-west-2.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "s3.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "s3.amazonaws.com/tron-ffc-icons-prod/"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "scripts.demandbase.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "scss.adobesc.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "sentry.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "server.messaging.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "services.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "services.prod.ims.adobejanus.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "sharedcloud-production-us-east-1-data-asset.s3.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "sharedcloud-production-us-east-1-data-temp.s3.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "slp-statics.astockcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "snap.licdn.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "socket.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "spark.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ss-prod-an1-notif-13-aws.adobess.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ss-prod-an1-notif-16.aws.adobess.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ss-prod-ew1-notif-13-aws.adobess.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ss-prod-ew1-notif-16.aws.adobess.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ss-prod-ue1-notif-13-aws.adobess.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ss-prod-ue1-notif-16.aws.adobess.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ss-prod-ue1-notif-79.aws.adobess.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ss-prod-va6c2-notif-9.va6c2.adobess.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "sstats.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "state.typekit.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "static-assets.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "static-assets.photoshop.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "static.adobelogin.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "static.intercomassets.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "stock-landing-pages.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "stock.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "stock.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "store.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "store1.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "store2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "store3.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "story.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "stream.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "support.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "supportanyware.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "swupdl.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "swupmf.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "t3.ftcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "t4.ftcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "transferapp.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "tron-prod-customized-user-packages.s3.amazonaws.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "tss-geotrust-crl.thawte.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "typekit.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "typekit.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "udps.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "uds.licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "ui.messaging.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "use.edgefonts.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "use.typekit.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "use.typekit.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "utut-service.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "v.ftcdn.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "widget.intercom.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "wip.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "wip1.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "wip2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "wip3.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "wip4.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "workflow-ui-prod.licensingstack.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "workflow.licenses.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "worldsecuresystems.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "livecreate-ue1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "nexus-websocket-a.intercom.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "nexus-websocket-b.intercom.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "presence-ue1.adobe.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "sockets.frame.io"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "speech.platform.bing.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "wwis-dubc1-vip60.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www-prod.adobesunbreak.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.adobeereg.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.adobeexchange.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.adobeexchange.com/api"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.adobetag.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.everestjs.net"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.googleadservices.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.googletagmanager.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.wip.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.wip1.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.wip2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.wip3.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "www.wip4.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "wwwimages.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "wwwimages2.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "xd-cdn.adobecces.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "xd.adobe.com"
+        },
+        {
+            "ip": "0.0.0.0",
+            "url": "xdce.adobe.io"
+        }
+    ]
+}
