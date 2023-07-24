@@ -1,6 +1,5 @@
 import requests
 import os
-import openai
 from flask import Flask, jsonify, request
 from bs4 import BeautifulSoup
 from linebot import (LineBotApi, WebhookHandler)
